@@ -36,6 +36,11 @@
             <artifactId>aspectjweaver</artifactId>
             <version>LATEST</version>
         </dependency>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.13-SNAPSHOT</version>
+        </dependency>
     </dependencies>
     
 </project>
